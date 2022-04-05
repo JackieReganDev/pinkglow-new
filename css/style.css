@@ -5645,7 +5645,7 @@ footer.twitter_wrap .sc_section_overlay {
     margin-top: -8px;
 }
 .hover_icon {
-    height: 460px;
+    height: 360px;
     object-fit: contain;
     background-size: cover;
     position: relative;
@@ -5704,6 +5704,9 @@ footer.twitter_wrap .sc_section_overlay {
     -ms-transition: opacity ease .3s;
     -o-transition: opacity ease .3s;
     transition: opacity ease .3s;
+}
+.text{
+    font-size: 1.5em !important;
 }
 .hover_icon:hover:after {
     opacity: 1;
