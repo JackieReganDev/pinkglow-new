@@ -5647,7 +5647,7 @@ footer.twitter_wrap .sc_section_overlay {
 .hover_icon {
     height: 460px;
     object-fit: contain;
-
+    background-size: cover;
     position: relative;
     display: block;
 }
