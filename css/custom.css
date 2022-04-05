@@ -598,7 +598,7 @@ background-size: cover;
 
 .services2 .sc_promo_image,
 .home .sc_promo_image.odd {
-	background-image:url(../images/skinscript7.jpg);
+	background-image:url(../images/facial3.jpg);
 	width: 50%;
 	height: 108%;
 	object-fit: contain;
@@ -609,7 +609,7 @@ background-size: cover;
 .home .sc_promo_image.even {
 	background-size: cover!important;
 	height: 115%!important;
-	background-image:url(../images/skinscript2.jpeg);
+	background-image:url(../images/facial3.jpg);
 	width: 50%;
 	left: 0;
 }
