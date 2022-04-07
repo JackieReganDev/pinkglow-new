@@ -2031,6 +2031,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     
 }
 #jackie{
+    font-size: 1.4em !important;
+    font-family: Raleway, sans-serif !important;
     background: #F7B4C6 !important;
     color: black;
 }
@@ -5899,9 +5901,7 @@ footer.twitter_wrap .sc_section_overlay {
     width: 50%;
     padding-left: 5px;
 }
-.icon-menu:after{
-    color: black !important;
-}
+
 .popup_wrap .popup_form_field {
     margin-bottom: 0.625em;
 }
@@ -6028,7 +6028,9 @@ footer.twitter_wrap .sc_section_overlay {
 .esg-grid .eg-washington-massage-element-3 {
     text-align: left;
 }
-
+.menu_button.icon-menu{
+    color: black !important;
+}
 /* 13.1 Media player
 ------------------------------------------------------- */
 .mejs-controls button:hover,

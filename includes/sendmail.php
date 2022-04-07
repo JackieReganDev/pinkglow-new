@@ -15,7 +15,7 @@ parse_str($_POST['data'], $post_data);
 		$user_msg =stripslashes(strip_tags(trim( $post_data['message'])));
 			
 		if (trim($contact_email)!='') {
-			$subj = 'Message from Jacqueline';
+			$subj = 'Message from Pink Glow Facial Room';
 			$msg = $subj." \r\nName: $user_name \r\nE-mail: $user_email \r\nSubject: $user_subject \r\nMessage: $user_msg";
 		
 			$head = "Content-Type: text/plain; charset=\"utf-8\"\n"
