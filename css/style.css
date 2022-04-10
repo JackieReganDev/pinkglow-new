@@ -3315,7 +3315,10 @@ form.search_form .search_button:hover {
     text-align: center;
     cursor: pointer;
 }
-
+#singlePic{
+ display: flex;
+ align-items: center;
+}
 /* 7.3 Page info: page title and breadcrumbs
 -------------------------------------------------------------- */
 .top_panel_title.title_present.breadcrumbs_present .post_navi,
