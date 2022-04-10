@@ -1850,6 +1850,11 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     margin-left: 4px;
     top: -0.5em;
 }
+.sc_socials a{
+    font-size: 2em;
+    font-style: italic;
+}
+
 .menu_user_nav>li>ul ul.submenu_left {
     left: -12em;
     margin-left: -1px;
@@ -4090,7 +4095,12 @@ body.single .post_item_single>.post_content {
     display: inline-block;
     margin-left: 10px;
 }
-
+.samsung{
+    font-size:2em;
+}
+.apple{
+    color: white;
+}
 /* 7.7 Paginations
 -------------------------------------------------------------- */
 .pagination_wrap {
