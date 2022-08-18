@@ -3405,8 +3405,13 @@ form.search_form .search_button:hover {
     margin-bottom: 0;
 }
 .post_featured img {
-    width: 70%;
+    width: 100%;
     height: auto;
+}
+#farmhouse{
+    color: #62B8BD !important;
+    font-weight: bold !important;
+
 }
 .post_featured_right>.post_featured {
     float: right;
@@ -5810,7 +5815,9 @@ footer.twitter_wrap .sc_section_overlay {
     .container{
         margin: 0 auto;
     }    
-    
+    #wutang h5{
+        width: 70%;
+    }
 }
 /* 12. Registration and Login popups
 -------------------------------------------------------------- */
