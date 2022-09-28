@@ -1998,12 +1998,25 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     z-index: 1;
     opacity: 0;
 }
+.footerLinks{
+    color: rgba(63, 81, 238, 0.849) !important;
+}
 .menu_main_nav>li.blob_over:not(.current-menu-item):not(.current-menu-parent):not(.current-menu-ancestor):hover,
 .menu_main_nav>li.blob_over:not(.current-menu-item):not(.current-menu-parent):not(.current-menu-ancestor).sfHover {
     background-color: transparent;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
+}
+.bella{
+    /* display: flex;
+    align-content: center; */
+}
+.scroll_to_top{
+    background-color: #1c1c1c !important;
+}
+.scheme_original .sc_button.sc_button_style_filled {
+    border-color:black !important;
 }
 .menu_user_nav {
     margin-left: 1em!important;
