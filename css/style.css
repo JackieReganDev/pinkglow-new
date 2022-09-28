@@ -2008,9 +2008,9 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     -moz-box-shadow: none;
     box-shadow: none;
 }
-.bella{
-    /* display: flex;
-    align-content: center; */
+#bella{
+text-align: center;
+    margin: 0 auto !important;
 }
 .scroll_to_top{
     background-color: #1c1c1c !important;
