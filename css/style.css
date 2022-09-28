@@ -3176,6 +3176,7 @@ form.search_form .search_button:hover {
     font-size: 18px;
     opacity: 0.6;
 }
+.black {color: black!important;}
 .header_mobile .sc_socials.sc_socials_size_small .sc_socials_item {
     display: inline-block;
 }
