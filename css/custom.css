@@ -599,20 +599,18 @@ background-size: cover;
 
 .services2 .sc_promo_image,
 .home .sc_promo_image.odd {
-	background-image:url(../images/facial3.jpg);
-	width: 50%;
-	height: 108%;
+	background-image:url("../images/teal3.jpg");
+	width: 55%;
+	height: 100%;
 	object-fit: contain;
-	background-size: cover;
-	
-	left: 0;
+	margin-left: 10;
 }
 .home .sc_promo_image.even {
-	background-size: cover!important;
-	height: 115%!important;
-	background-image:url(../images/facial3.jpg);
-	width: 50%;
-	left: 0;
+	object-fit: contain;
+	height: 100%!important;
+	background-image:url("../images/teal3.jpg");
+	width: 55%;
+	margin-left: 10;
 }
 .home .custom_services_pricing {
 	margin-top:0px;
