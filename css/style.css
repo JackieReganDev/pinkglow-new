@@ -5835,15 +5835,9 @@ footer.twitter_wrap .sc_section_overlay {
 }
 
 @media screen and (max-width: 1000px){
-  #sc_services_350_3{
+.hide_mobile{
     display: none;
-  }
-  #sc_services_350_4{
-    display: none;
-  }
-  {
-    display: none!important;
-  }
+}
 }
 /* 12. Registration and Login popups
 -------------------------------------------------------------- */
