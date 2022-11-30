@@ -1542,11 +1542,21 @@ body.rtl .tp-kbimg {
     font-size: 10px;
     overflow: scroll;
 }
+
+
+
 #mainLogo{
-    padding-top: 25px!important;
+    padding-top: 10rem !important;
     object-fit: contain!important;
-    height: 300px;
+    height: 400px !important;
     width: 100%;
+}
+@media  screen and (max-width: 1100px) {
+    #mainLogo{
+        padding-top: 225px !important;
+        height: 200px !important;
+    }
+    
 }
 
 #slide-5-layer-5,

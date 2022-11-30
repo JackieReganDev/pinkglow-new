@@ -501,6 +501,7 @@ label.required:after {
     text-decoration: none;
     z-index: 100000;
 }
+
 .alignleft {
     display: inline-block;
     float: left;
