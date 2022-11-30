@@ -3660,12 +3660,21 @@ body.sidebar_hide .sc_recent_news_style_news-announce .post_size_small {
     font-size: 1.53em;
 }
 .sc_services_item .sc_services_item_description {
+    font-weight: bold;
+    font-size: 1.2em;
     margin-top: 1.2857em;
     line-height: 1.75em;
     overflow: hidden;
 }
 .sc_services_item .sc_services_item_description p {
     margin-bottom: 0;
+}
+#babyPom{
+    padding-top: 2.5em;
+    color: teal !important;
+    font-size: 2.5em;
+    font-family: "Dancing Script", cursive;
+
 }
 .sc_services_item .sc_icon {
     display: block;
