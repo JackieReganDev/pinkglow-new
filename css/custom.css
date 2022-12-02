@@ -756,8 +756,8 @@ background-size: cover;
 	margin-right:10px;
 	margin-left:10px;
 	width:9em;
-	color:#f9a392!important;
-	background-color:#ffffff!important;
+	color:#ffffff!important;
+	background-color: teal!important;
 	border-color:#ffffff!important;
 }
 .sc_custom_1449069687256 .sc_image,
@@ -893,8 +893,8 @@ background-size: cover;
 	border-color:#8ed4cc;
 }
 .services1 .sc_button.even {
-	background-color:#f9a392; 
-	border-color:#f9a392;
+	background-color:teal; 
+	border-color:teal;
 }
 
 .services2 .sc_tabs_style_2 {
