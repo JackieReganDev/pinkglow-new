@@ -2048,6 +2048,14 @@ text-align: center;
 .robbie{
     font-size: 20px ;
 }
+#imgtext{
+    margin:  !important;
+    font-family: "Mr De Haviland", cursive;
+    font-size: 3.5em;
+    font-weight: bold;
+    text-align: left;
+    color: teal;
+}
 #jackie{
     font-size: 1.2em !important;
     font-family: Soleway, serif !important;
@@ -4334,6 +4342,10 @@ body.single .post_item_single>.post_content {
 .sc_video_frame.sc_video_active:before {
     -webkit-animation: rotateplane 1.2s infinite ease-in-out;
     animation: rotateplane 1.2s infinite ease-in-out;
+}
+p{
+    font-size: 1.3em !important;
+    
 }
 @-webkit-keyframes rotateplane {
     0% {
