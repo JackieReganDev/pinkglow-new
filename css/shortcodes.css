@@ -2724,6 +2724,15 @@ ul.sc_list_style_iconed {
     letter-spacing: 0.05em;
     font-weight: 500;
 }
+
+@media screen and (max-width: 900px){
+    .container.sc_menuitem_title{
+        font-size: 8px !important;
+        
+    }    
+   
+    
+}
 .sc_menuitems_style_menuitems-2 .sc_menuitem_price {
     font-size: 20px;
     line-height: 35px;
