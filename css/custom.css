@@ -601,7 +601,7 @@ background-size: cover;
 .services2 .sc_promo_image,
 .home .sc_promo_image.odd {
 	background-image:url("../images/teal3.jpg");
-	width: 55%;
+	width: 60%;
 	height: 100%;
 	object-fit: contain;
 	margin-left: 10;

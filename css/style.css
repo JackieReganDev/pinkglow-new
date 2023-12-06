@@ -1713,7 +1713,8 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     background-repeat: repeat;
     background-position: center top;
 
-    background-color: #F7B4C6;  
+    background: rgb(247,180,198);
+    background: linear-gradient(0deg, rgba(247,180,198,1) 0%, rgba(253,237,238,1) 60%);
 
     
     object-fit: contain;
@@ -2058,8 +2059,9 @@ text-align: center;
 }
 #jackie{
     font-size: 1.2em !important;
-    font-family: Soleway, serif !important;
-    background: #F7B4C6 !important;
+    font-family: 'Montserrat', sans-serif !important;
+    background: rgb(247,180,198) !important;
+    background: linear-gradient(0deg, rgba(247,180,198,1) 0%, rgba(253,237,238,1) 60%) !important;
     color: black;
 }
 .top_panel_top_user_area .menu_user_cart {
